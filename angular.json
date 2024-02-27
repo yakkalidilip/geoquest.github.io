@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1,
+  "version": 1, 
   "newProjectRoot": "projects",
   "projects": {
     "geoquest": {
@@ -123,10 +123,6 @@
           }
         }
       }
-    }
-  },
-  "defaultProject": "geoquest",
-  "cli": {
-    "analytics": "32f13901-69db-49e6-9fe6-efa7382f0add"
-  }
+    }},
+  "defaultProject": "geoquest"
 }
